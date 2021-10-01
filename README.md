@@ -1,0 +1,2 @@
+# MediatR
+MediatR in action
