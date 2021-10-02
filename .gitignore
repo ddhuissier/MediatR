@@ -1,0 +1,10 @@
+﻿################################################################################
+# Ce fichier .gitignore a été automatiquement créé par Microsoft(R) Visual Studio.
+################################################################################
+
+/BlazorUI/bin/Debug/net5.0
+/BlazorUI/obj
+/MediatRApi/bin/Debug/net5.0
+/MediatRApi/obj
+/MediatRLib/bin/Debug/net5.0
+/MediatRLib/obj
